@@ -1,0 +1,22 @@
+/*
+Martha Elena García Ramos
+A01139413
+*/
+
+body{
+    font-family:Tahoma;
+}
+
+li {
+    color: grey; 
+    font-style: italic;
+    list-style: none;
+    margin: 20px;
+    border: 1px solid;
+    padding: 15px;
+    max-width: 50%;
+}
+  
+.checked > p {
+    text-decoration: line-through;
+}
